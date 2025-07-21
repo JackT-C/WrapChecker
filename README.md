@@ -8,9 +8,8 @@ An Android app built with Kotlin/Java that shows you **McDonald's UK Wrap of the
 
 - ✅ Automatically displays today's wrap
 - 📆 Shows wraps for all days of the week
-- 🔔 Optional daily reminder notifications
-- 🌙 Clean, simple dark-themed UI
-- 🕸️ Works offline after first load (if local data is used)
+- 🌙 Clean, simple UI
+- 🕸️ Works offline after first load
 
 ---
 
