@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Wrap shape -->
+    <path
+        android:fillColor="@color/mcdonalds_red"
+        android:pathData="M20,40 Q20,30 30,30 L90,30 Q100,30 100,40 L100,80 Q100,90 90,90 L30,90 Q20,90 20,80 Z" />
+    
+    <!-- Wrap filling -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M25,45 L95,45 L92,50 L28,50 Z" />
+    
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M28,55 L92,55 L89,60 L31,60 Z" />
+    
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M31,65 L89,65 L86,70 L34,70 Z" />
+    
+    <!-- McDonald's M -->
+    <path
+        android:fillColor="@color/mcdonalds_yellow"
+        android:pathData="M45,75 L45,85 L47,85 L47,77 L50,82 L53,77 L53,85 L55,85 L55,75 L52,75 L50,79 L48,75 Z" />
+    
+</vector>
